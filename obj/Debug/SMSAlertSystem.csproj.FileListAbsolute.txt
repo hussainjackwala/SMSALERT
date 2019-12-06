@@ -1,0 +1,39 @@
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\bin\Debug\SMSAlertSystem.exe.config
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\bin\Debug\SMSAlertSystem.exe
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\bin\Debug\SMSAlertSystem.pdb
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.frmSmsBlaster.resources
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.Properties.Resources.resources
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.csproj.GenerateResource.Cache
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.exe
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.pdb
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\obj\Debug\Interop.AXmsCtrl.dll
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.csproj.ResolveComReference.cache
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\bin\Debug\Newtonsoft.Json.dll
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\bin\Debug\Newtonsoft.Json.xml
+D:\SMSAlert\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.csprojResolveAssemblyReference.cache
+D:\SMSAlertSystem\SMSAlertSystem\bin\Debug\SMSAlertSystem.exe.config
+D:\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.csproj.ResolveComReference.cache
+D:\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.exe
+D:\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.pdb
+D:\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.frmSmsBlaster.resources
+D:\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.Properties.Resources.resources
+D:\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.csproj.GenerateResource.Cache
+D:\SMSAlertSystem\SMSAlertSystem\bin\Debug\SMSAlertSystem.exe
+D:\SMSAlertSystem\SMSAlertSystem\bin\Debug\SMSAlertSystem.pdb
+D:\SMSAlertSystem\SMSAlertSystem\bin\Debug\Newtonsoft.Json.dll
+D:\SMSAlertSystem\SMSAlertSystem\bin\Debug\Newtonsoft.Json.xml
+D:\SMSAlertSystem\SMSAlertSystem\obj\Debug\Interop.AXmsCtrl.dll
+D:\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.csprojResolveAssemblyReference.cache
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\bin\Debug\SMSAlertSystem.exe.config
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\obj\Debug\Interop.AXmsCtrl.dll
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.csproj.ResolveComReference.cache
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.exe
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.pdb
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\bin\Debug\SMSAlertSystem.exe
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\bin\Debug\SMSAlertSystem.pdb
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\bin\Debug\Newtonsoft.Json.dll
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\bin\Debug\Newtonsoft.Json.xml
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.csprojResolveAssemblyReference.cache
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.frmSmsBlaster.resources
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.Properties.Resources.resources
+D:\SMS DEVELOPMENT\SMS DEVELOPMENT\SMSAlertSystem\SMSAlertSystem\obj\Debug\SMSAlertSystem.csproj.GenerateResource.Cache
